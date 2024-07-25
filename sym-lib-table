@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_RaspberryPi_RP2040")(type "Legacy")(uri "D:/Ali/04-Other/PersonalProject/00-Projects/PCB Projects/Ripple/02-KiCad/00-External Components/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
+  (lib (name "RP2040_minimal-cache")(type "Legacy")(uri "D:/Ali/04-Other/Personal Project/PCB Projects/Ripple/02-KiCad/00-External Components/RP2040_minimal-cache.lib")(options "")(descr "")(disabled))
+  (lib (name "95C12C3GWT")(type "Legacy")(uri "D:/Program Files/KiCad6/6.0/share/kicad/custom/95C12C3GWT/95C12C3GWT.lib")(options "")(descr ""))
+  (lib (name "RS-032G05A3-SM_RT")(type "Legacy")(uri "D:/Program Files/KiCad6/6.0/share/kicad/custom/RS-032G05A3-SM_RT/RS-032G05A3-SM_RT.lib")(options "")(descr ""))
+  (lib (name "EVQ-6Q201W")(type "Legacy")(uri "D:/Program Files/KiCad6/6.0/share/kicad/custom/EVQ6Q201W/EVQ-6Q201W.lib")(options "")(descr ""))
+  (lib (name "HMC5883L")(type "KiCad")(uri "${KIPRJMOD}/00-External Components/HMC5883L/HMC5883L.kicad_sym")(options "")(descr ""))
+)
